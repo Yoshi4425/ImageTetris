@@ -1,2 +1,3 @@
 # ImageTetris
 Tetrisに画像を使ったアレンジを加えたゲーム
+ImageTetris/src/　に各パッケージごとでソースコードが入っています
